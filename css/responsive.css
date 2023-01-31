@@ -1,0 +1,261 @@
+@media only screen and (max-width: 1282px) {
+  .web-discription-classic {
+    width: 50%;
+  }
+  .web-discription {
+    width: 50%;
+  }
+  .features {
+    padding-top: 50px;
+  }
+  .Premium {
+    padding: 80px 0px 80px 0px;
+  }
+  .Premium-container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+  }
+  .Premium-container {
+    width: 100%;
+  }
+  .footer-links a {
+    font-size: 10px;
+  }
+  .foot--links--one--two {
+    padding-right: 20px;
+  }
+  .foot--links--three--four {
+    padding-left: 20px;
+  }
+}
+
+@media only screen and (max-width: 902px) {
+  .web-discription-classic {
+    width: 100%;
+  }
+  .web-discription {
+    width: 100%;
+  }
+  .web-img-classic {
+    display: none;
+  }
+  .web-img {
+    display: none;
+  }
+  .discription-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 20px;
+  }
+
+  .discription-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 0px;
+  }
+  .download,
+  .Optimize,
+  .Schedule,
+  .Remotely {
+    width: 100%;
+    padding: 20px;
+  }
+  .feature-description {
+    padding-bottom: 0px;
+  }
+  .Premium {
+    padding: 30px 0px 30px 0px;
+  }
+  .premium-card {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .Premium-container-links {
+    width: 90%;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 18px;
+  }
+  .Mobile {
+    padding: 50px 0px 50px 0px;
+    background-color: #f0ecec;
+  }
+  .android-img {
+    display: none;
+  }
+  .android-dis {
+    width: 100%;
+    /* text-align: center; */
+  }
+
+  .android {
+    padding-top: 20px;
+  }
+  .foot--links--one--two,
+  .foot--links--three--four {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    gap: 100px;
+    padding-top: 30px;
+  }
+  .footer-links-two {
+    width: 100%;
+    display: flex;
+    padding: 20px 0px 20px 0px;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .footer-links-one {
+    width: 100%;
+    padding: 20px 0px 20px 0px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .comp-down,
+  .supp-soci {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    gap: 100px;
+    padding-top: 30px;
+  }
+  .foot--links--three--four {
+    padding-left: 0px;
+  }
+  .footer-links-two ul {
+    padding-top: 0px;
+  }
+  .Languages {
+    width: 100%;
+  }
+  .footer-img {
+    width: 130px;
+  }
+  .footer-link-three {
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 20px 0px 20px 0px;
+    flex-direction: column;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .links {
+    display: none;
+  }
+  .nav-btn {
+    display: block;
+  }
+  .res-class {
+    display: flex;
+  }
+
+  .pre-link-p {
+    display: block;
+    margin-bottom: 0px;
+  }
+  .mobile-container {
+    width: 90%;
+  }
+  .foot--links--one--two {
+    padding-right: 0px;
+  }
+  .footer-links p {
+    font-size: 10px;
+  }
+}
+
+@media only screen and (max-width: 443px) {
+  .head-logo-classic,
+  .head-logo {
+    gap: 5px;
+  }
+  .head-logo-classic img,
+  .head-logo img {
+    width: 35px;
+  }
+  .head-logo-classic h1,
+  .head-logo h1 {
+    font-size: 20px;
+    /* color: #000; */
+  }
+  .web-discription-classic p,
+  .web-discription p {
+    font-size: 18px;
+  }
+  .web-discription-classic button,
+  .web-discription button {
+    width: 200px;
+    padding: 14px;
+    font-size: 15px;
+  }
+  .feature-description h1 {
+    font-size: 40px;
+  }
+  .feature-description p {
+    font-size: 18px;
+    padding-top: 15px;
+  }
+  .feature-description {
+    width: 100%;
+  }
+  .download,
+  .Optimize,
+  .Schedule,
+  .Remotely {
+    font-size: 18px;
+  }
+  .wright {
+    display: none;
+  }
+  .Premium-container h1 {
+    font-size: 40px;
+  }
+
+  .Premium-container p {
+    font-size: 18px;
+    padding-top: 15px;
+  }
+  .mob-head {
+    font-size: 40px;
+  }
+
+  .mob-pera {
+    font-size: 16px;
+    padding-top: 15px;
+  }
+  .popular-pro {
+    width: 100%;
+    height: 600px;
+    box-shadow: 0 0px 0px 0 #d9d9d9;
+  }
+  .ad-free {
+    width: 100%;
+    height: 500px;
+    margin-top: 0px;
+    box-shadow: 0 0px 0px 0 #d9d9d9;
+    background-color: #ffff;
+  }
+  .Premium-container-links {
+    font-size: 15px;
+  }
+  .comp-down,
+  .supp-soci {
+    gap: 30px;
+  }
+  .foot--links--one--two,
+  .foot--links--three--four {
+    gap: 30px;
+  }
+  .footer-links {
+    width: 95%;
+  }
+}
